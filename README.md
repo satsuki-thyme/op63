@@ -12,3 +12,4 @@
 
 ### 思考ノート
 - thinking-notes/[63]thinking-notes-001.md: アクトの欲求
+- thinking-notes/[63]thinking-notes-002.md: メグの欲求

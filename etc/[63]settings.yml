@@ -1,15 +1,22 @@
+opus:
+  format: 短編の連作
+
 world:
   overview: 中世ヨーロッパ風ファンタジー世界
 
-character:
+characters:
   - name: アクト
     role: 主人公
+    desire: 魔素次元の中心に触れて魔法の神髄を得るため魔素次元の中心につながっているというルビアの玉碧を欲している
     description:
-      - 旅をしている
+      - 魔素次元の中心につながるとされるルビアの玉碧を探している
       - 最強の魔法使いで最強の剣士
 
   - name: メグ
     role: ヒロイン
+    desire:
+      - 
+      - 強くなりたい、戦いたい
     description:
       - 主人公と一緒に旅をしている
-      - 剣士
+      - 魔法使い
